@@ -1,9 +1,9 @@
 {
-  "name": "LeetCode Tracker",
+  "name": "CodeHub",
   "description": "Sync LeetCode's submissions with a GitHub repository",
   "version": "1.9.1",
   "manifest_version": 3,
-  "author": "Jeffrey Gbeho",
+  "author": "Ritikraj Bundela",
   "action": {
     "default_popup": "popup.html"
   },
